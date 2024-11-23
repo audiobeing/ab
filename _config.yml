@@ -1,3 +1,4 @@
-theme: jekyll-theme-minima
+# theme: jekyll-theme-minimal
+remote_theme: minima
 title: Ian Jarvis
 # description: Documentation of projects. 
