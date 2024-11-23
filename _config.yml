@@ -7,3 +7,5 @@ minima:
   skin: dark # or auto if you want it to switch with your system settings.
 title: Ian Jarvis
 # description: Documentation of projects. 
+
+# https://stackoverflow.com/questions/68518590/does-minima-dark-skin-work-on-github-pages

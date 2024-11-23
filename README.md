@@ -1,7 +1,7 @@
 <!-- ![alt text for screen readers](assets/Lightening.jpeg "Text to show on mouseover") -->
 <!-- <p style = "background-image"><img  src="assets/Lightening.jpeg" alt="foo" title="title" /></p> -->
  <!-- <p style="background-image: url('assets/Lightening.jpeg');">  -->
-[cv](docs/IanJarvis_2024-r.pdf) [statement](docs/a-rstatement.md) [courses](docs/course-outlines.md) [works](docs/creative-works.md) [research](docs/research.md) [publications](docs/publications.md) [music](docs/music.md) [events](docs/music.md)
+<!-- [cv](docs/IanJarvis_2024-r.pdf) [statement](docs/a-rstatement.md) [courses](docs/course-outlines.md) [works](docs/creative-works.md) [research](docs/research.md) [publications](docs/publications.md) [music](docs/music.md) [events](docs/music.md) -->
 
 
 
