@@ -1,3 +1,9 @@
+---
+layout: page
+title: statement
+published: false
+# permalink: /docs/
+---
 # artist-research statement
 - `Statement of artistic practice / research (max 1000 words) describing past, current, and future research accomplishments and goals. To be uploaded under the heading "Research Interests/Projects"`
 -  `with expertise in one or more of the following areas: Virtual Reality, Video Game Design, Computational Arts, New Media Art, Physical Computing, at the rank of Assistant Professor, commencing July 1, 2025 at the University of Regina.`
