@@ -1,8 +1,7 @@
 ---
 layout: page
-title: overview
+title: ian jarvis cv
 # published: false
 # permalink: /docs/
 ---
-# computer music 
-# embodied cognition
+[cv](assets/IanJarvis_2024-r.pdf)
