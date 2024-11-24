@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: cv
+title: cv2
 # published: false
 # permalink: /docs/
 ---
