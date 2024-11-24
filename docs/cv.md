@@ -1,7 +1,8 @@
 ---
 layout: page
-title: ian jarvis cv
+title: cv
 # published: false
 # permalink: /docs/
 ---
-[cv](assets/IanJarvis_2024-r.pdf)
+
+# ian jarvis [cv](../assets/IanJarvis_2024-r.pdf)
