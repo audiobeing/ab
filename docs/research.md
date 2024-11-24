@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-permalink: /docs/
+# permalink: /docs/
 ---
 # research
 
