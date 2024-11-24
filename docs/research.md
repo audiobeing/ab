@@ -1,8 +1,8 @@
---
+---
 layout: page
-title: "research"
+title: research
 permalink: /docs/
---
+---
 # research
 
 # Embodied Digital Instrumental Systems: performer-system perspectives
